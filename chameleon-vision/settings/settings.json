@@ -1,0 +1,10 @@
+{
+  "teamNumber" : 4504,
+  "connectionType" : "DHCP",
+  "ip" : "",
+  "gateway" : "",
+  "netmask" : "",
+  "hostname" : "Chameleon-vision",
+  "currentCamera" : "USB Camera-B4.09.24.1",
+  "currentPipeline" : 0
+}

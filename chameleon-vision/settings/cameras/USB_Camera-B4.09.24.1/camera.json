@@ -1,0 +1,8 @@
+{
+  "fov" : 70.0,
+  "path" : "/dev/v4l/by-path/platform-3f980000.usb-usb-0:1.2:1.0-video-index0",
+  "name" : "USB Camera-B4.09.24.1",
+  "nickname" : "USB Camera-B4.09.24.1",
+  "videomode" : 9,
+  "streamDivisor" : "HALF"
+}
